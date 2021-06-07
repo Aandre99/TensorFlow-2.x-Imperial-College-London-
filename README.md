@@ -1,2 +1,2 @@
-# TensorFlow-2.x-Imperial-College-London-
+# TensorFlow2.x Coursera (Imperial College London)
 tensorflow specialization course
